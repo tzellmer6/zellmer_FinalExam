@@ -1,0 +1,86 @@
+[
+    {
+        "componentChunkName": "component---cache-dev-404-page-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
+        "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "first-post.json",
+        "path": "/first-post"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "jntro-post.json",
+        "path": "/jntro-post"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404.json",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404-html.json",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-2.json",
+        "path": "/lesson-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-1.json",
+        "path": "/lesson-1"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "intro-post.json",
+        "path": "/intro-post"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-3.json",
+        "path": "/lesson-3"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-4.json",
+        "path": "/lesson-4"
+    }
+]

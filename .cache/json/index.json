@@ -1,0 +1,64 @@
+{
+    "data": {
+        "allMarkdownRemark": {
+            "edges": [
+                {
+                    "node": {
+                        "excerpt": "Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial…",
+                        "id": "C:/Users/Toby/Desktop/zellmer_Final/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Python for Data Science",
+                            "date": "December 18, 2018",
+                            "path": "/lesson-4"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "excerpt": "Every programming language has some kind of way of doing numbers and math. Do not worry: programmers lie frequently about being math geniuses when they really aren't. If they were math geniuses, they would be doing math, not writing buggy web…",
+                        "id": "C:/Users/Toby/Desktop/zellmer_Final/src/pages/17-12-2018-lesson-3/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Python and Math",
+                            "date": "December 17, 2018",
+                            "path": "/lesson-3"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "excerpt": "The financial industry is increasingly adopting Python for general-purpose programming and quantitative analysis, ranging from understanding trading dynamics to risk management systems. This course focuses specifically on introducing Python for…",
+                        "id": "C:/Users/Toby/Desktop/zellmer_Final/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Python for Finance",
+                            "date": "December 16, 2018",
+                            "path": "/lesson-2"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "excerpt": "Python is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the…",
+                        "id": "C:\\Users\\Toby\\Desktop\\zellmer_Final\\src\\pages\\15–12–2018-intro\\index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Intro to Python",
+                            "date": "December 15, 2018",
+                            "path": "/lesson-1"
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "excerpt": "Python source files use the \".py\" extension and are called \"modules.\" With a Python module hello.py, the easiest way to run it is with the shell command \"python hello.py Alice\" which calls the Python interpreter to execute the code in hello.py…",
+                        "id": "C:/Users/Toby/Desktop/zellmer_Final/src/pages/15-12-2018-lesson-1/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Python Basics",
+                            "date": "December 15, 2018",
+                            "path": "/intro-post"
+                        }
+                    }
+                }
+            ]
+        }
+    },
+    "pathContext": {}
+}
