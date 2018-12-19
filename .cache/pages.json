@@ -10,15 +10,36 @@
         "componentChunkName": "component---src-templates-blog-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "first-post.json",
-        "path": "/first-post"
+        "jsonName": "lesson-4.json",
+        "path": "/lesson-4"
     },
     {
         "componentChunkName": "component---src-templates-blog-template-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "jntro-post.json",
-        "path": "/jntro-post"
+        "jsonName": "lesson-3.json",
+        "path": "/lesson-3"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-2.json",
+        "path": "/lesson-2"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "intro-post.json",
+        "path": "/intro-post"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-template-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "lesson-1.json",
+        "path": "/lesson-1"
     },
     {
         "componentChunkName": "component---src-pages-404-js",
@@ -47,40 +68,5 @@
         "layoutComponentChunkName": "component---src-layouts-index-js",
         "jsonName": "page-2.json",
         "path": "/page-2/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lesson-2.json",
-        "path": "/lesson-2"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lesson-1.json",
-        "path": "/lesson-1"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "intro-post.json",
-        "path": "/intro-post"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lesson-3.json",
-        "path": "/lesson-3"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-template-js",
-        "layout": "layout---index",
-        "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "lesson-4.json",
-        "path": "/lesson-4"
     }
 ]

@@ -1,8 +1,8 @@
 var plugins = [{
-      plugin: require('C:/Users/Toby/Desktop/zellmer_Final/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
+      plugin: require('C:/Users/Toby/code/zellmer_FinalExam/node_modules/gatsby-plugin-catch-links/gatsby-browser.js'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/Toby/Desktop/zellmer_Final/gatsby-browser.js'),
+      plugin: require('C:/Users/Toby/code/zellmer_FinalExam/gatsby-browser.js'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks

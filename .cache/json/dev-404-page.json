@@ -1,16 +1,31 @@
 {
     "data": {
         "allSitePage": {
-            "totalCount": 11,
+            "totalCount": 9,
             "edges": [
                 {
                     "node": {
-                        "path": "/first-post"
+                        "path": "/lesson-4"
                     }
                 },
                 {
                     "node": {
-                        "path": "/jntro-post"
+                        "path": "/lesson-3"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/lesson-2"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/intro-post"
+                    }
+                },
+                {
+                    "node": {
+                        "path": "/lesson-1"
                     }
                 },
                 {
@@ -31,31 +46,6 @@
                 {
                     "node": {
                         "path": "/page-2/"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/lesson-2"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/lesson-1"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/intro-post"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/lesson-3"
-                    }
-                },
-                {
-                    "node": {
-                        "path": "/lesson-4"
                     }
                 }
             ]
