@@ -4,12 +4,25 @@
             "edges": [
                 {
                     "node": {
+                        "excerpt": "Instead of including a seperate document for my presentation, I thought it would be a cool idea to include the presentation within the website itself. I will also include the YouTube video that I created presenting this project below. Starting off, I…",
+                        "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file >>> MarkdownRemark",
+                        "frontmatter": {
+                            "title": "Presentation for Final",
+                            "date": "December 19, 2018",
+                            "path": "/presentation",
+                            "excerpt": null
+                        }
+                    }
+                },
+                {
+                    "node": {
                         "excerpt": "Python is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial…",
                         "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark",
                         "frontmatter": {
                             "title": "Python for Data Science",
                             "date": "December 18, 2018",
-                            "path": "/lesson-4"
+                            "path": "/lesson-4",
+                            "excerpt": ""
                         }
                     }
                 },
@@ -20,7 +33,8 @@
                         "frontmatter": {
                             "title": "Python and Math",
                             "date": "December 17, 2018",
-                            "path": "/lesson-3"
+                            "path": "/lesson-3",
+                            "excerpt": ""
                         }
                     }
                 },
@@ -31,7 +45,8 @@
                         "frontmatter": {
                             "title": "Python for Finance",
                             "date": "December 16, 2018",
-                            "path": "/lesson-2"
+                            "path": "/lesson-2",
+                            "excerpt": ""
                         }
                     }
                 },
@@ -42,7 +57,8 @@
                         "frontmatter": {
                             "title": "Python Basics",
                             "date": "December 15, 2018",
-                            "path": "/intro-post"
+                            "path": "/intro-post",
+                            "excerpt": ""
                         }
                     }
                 },
@@ -53,7 +69,8 @@
                         "frontmatter": {
                             "title": "Intro to Python",
                             "date": "December 15, 2018",
-                            "path": "/lesson-1"
+                            "path": "/lesson-1",
+                            "excerpt": ""
                         }
                     }
                 }

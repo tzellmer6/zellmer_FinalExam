@@ -8,7 +8,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1545248206156,
+      "updatedAt": 1545255524428,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "40554f4a27e4d94bdc46a49d7f329e2b",
+        "contentDigest": "04bf02685744de92d7e78cf6045cb11c",
         "owner": "internal-data-bridge"
       }
     },
@@ -554,7 +554,7 @@
       "resolve": "C:/Users/Toby/code/zellmer_FinalExam",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "c4c5d38de93af56609ddef506af85a89",
+      "version": "9059bfc3eb57d4289316727e22b066b1",
       "pluginOptions": {
         "plugins": []
       },
@@ -590,12 +590,20 @@
             "version": "^1.0.8"
           },
           {
+            "name": "gatsby-remark-prismjs",
+            "version": "^3.1.4"
+          },
+          {
             "name": "gatsby-source-filesystem",
             "version": "^1.5.11"
           },
           {
             "name": "gatsby-transformer-remark",
             "version": "^1.7.25"
+          },
+          {
+            "name": "prismjs",
+            "version": "^1.15.0"
           },
           {
             "name": "react-media",
@@ -615,7 +623,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "1d03df9aaf3135a873a7049c7cd4f10f",
+        "contentDigest": "19874669a53b0125b81b4f06a20e36b2",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -626,14 +634,12 @@
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
-      "buildTime": "2018-12-19T19:35:36.511Z",
+      "buildTime": "2018-12-19T20:57:12.651Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "32c68b6979f63091b455aed715810b6e",
+        "contentDigest": "0667916aa862947c05f1f9fb3c2ca1e5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -761,30 +767,30 @@
       "ctime": "2018-12-15T23:48:01.775Z",
       "birthtime": "2018-12-15T21:51:52.681Z"
     },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4 absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4 absPath of file",
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2 absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a8d871004c525b34174d01b2afcda20c",
+        "contentDigest": "539ac071f77e6c07998d55d93fdf7345",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4",
-      "relativePath": "18-12-2018-lesson-4",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2",
+      "relativePath": "16-12-2018-lesson-2",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-19T02:57:54.705Z",
-      "accessTime": "2018-12-19T02:57:54.705Z",
-      "changeTime": "2018-12-19T02:58:07.817Z",
-      "birthTime": "2018-12-19T02:57:49.697Z",
+      "modifiedTime": "2018-12-19T02:38:32.329Z",
+      "accessTime": "2018-12-19T02:38:32.329Z",
+      "changeTime": "2018-12-19T02:38:32.391Z",
+      "birthTime": "2018-12-19T02:38:22.801Z",
       "root": "C:/",
       "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages",
-      "base": "18-12-2018-lesson-4",
+      "base": "16-12-2018-lesson-2",
       "ext": "",
-      "name": "18-12-2018-lesson-4",
+      "name": "16-12-2018-lesson-2",
       "relativeDirectory": "",
       "dev": 3898870800,
       "mode": 16822,
@@ -792,15 +798,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 3096224745165079,
-      "atimeMs": 1545188274705.0652,
-      "mtimeMs": 1545188274705.0652,
-      "ctimeMs": 1545188287816.8777,
-      "birthtimeMs": 1545188269697.0444,
-      "atime": "2018-12-19T02:57:54.705Z",
-      "mtime": "2018-12-19T02:57:54.705Z",
-      "ctime": "2018-12-19T02:58:07.817Z",
-      "birthtime": "2018-12-19T02:57:49.697Z"
+      "ino": 1125899908190381,
+      "atimeMs": 1545187112329.0376,
+      "mtimeMs": 1545187112329.0376,
+      "ctimeMs": 1545187112391.0364,
+      "birthtimeMs": 1545187102801.083,
+      "atime": "2018-12-19T02:38:32.329Z",
+      "mtime": "2018-12-19T02:38:32.329Z",
+      "ctime": "2018-12-19T02:38:32.391Z",
+      "birthtime": "2018-12-19T02:38:22.801Z"
     },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3 absPath of file": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3 absPath of file",
@@ -843,30 +849,30 @@
       "ctime": "2018-12-19T02:41:43.450Z",
       "birthtime": "2018-12-19T02:41:37.670Z"
     },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2 absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2 absPath of file",
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4 absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4 absPath of file",
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "539ac071f77e6c07998d55d93fdf7345",
+        "contentDigest": "a8d871004c525b34174d01b2afcda20c",
         "type": "Directory",
         "owner": "gatsby-source-filesystem"
       },
       "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2",
-      "relativePath": "16-12-2018-lesson-2",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4",
+      "relativePath": "18-12-2018-lesson-4",
       "extension": "",
       "size": 0,
       "prettySize": "0 B",
-      "modifiedTime": "2018-12-19T02:38:32.329Z",
-      "accessTime": "2018-12-19T02:38:32.329Z",
-      "changeTime": "2018-12-19T02:38:32.391Z",
-      "birthTime": "2018-12-19T02:38:22.801Z",
+      "modifiedTime": "2018-12-19T02:57:54.705Z",
+      "accessTime": "2018-12-19T02:57:54.705Z",
+      "changeTime": "2018-12-19T02:58:07.817Z",
+      "birthTime": "2018-12-19T02:57:49.697Z",
       "root": "C:/",
       "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages",
-      "base": "16-12-2018-lesson-2",
+      "base": "18-12-2018-lesson-4",
       "ext": "",
-      "name": "16-12-2018-lesson-2",
+      "name": "18-12-2018-lesson-4",
       "relativeDirectory": "",
       "dev": 3898870800,
       "mode": 16822,
@@ -874,15 +880,15 @@
       "uid": 0,
       "gid": 0,
       "rdev": 0,
-      "ino": 1125899908190381,
-      "atimeMs": 1545187112329.0376,
-      "mtimeMs": 1545187112329.0376,
-      "ctimeMs": 1545187112391.0364,
-      "birthtimeMs": 1545187102801.083,
-      "atime": "2018-12-19T02:38:32.329Z",
-      "mtime": "2018-12-19T02:38:32.329Z",
-      "ctime": "2018-12-19T02:38:32.391Z",
-      "birthtime": "2018-12-19T02:38:22.801Z"
+      "ino": 3096224745165079,
+      "atimeMs": 1545188274705.0652,
+      "mtimeMs": 1545188274705.0652,
+      "ctimeMs": 1545188287816.8777,
+      "birthtimeMs": 1545188269697.0444,
+      "atime": "2018-12-19T02:57:54.705Z",
+      "mtime": "2018-12-19T02:57:54.705Z",
+      "ctime": "2018-12-19T02:58:07.817Z",
+      "birthtime": "2018-12-19T02:57:49.697Z"
     },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js absPath of file": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js absPath of file",
@@ -926,6 +932,92 @@
       "ctime": "2018-12-15T23:26:06.938Z",
       "birthtime": "2018-12-15T21:51:52.685Z"
     },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "33ea399c98f33a8800bd194cd32589f7",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 1109,
+      "prettySize": "1.11 kB",
+      "modifiedTime": "2018-12-19T20:18:15.770Z",
+      "accessTime": "2018-12-15T21:51:52.686Z",
+      "changeTime": "2018-12-19T20:18:15.770Z",
+      "birthTime": "2018-12-15T21:51:52.686Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 3898870800,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978054935,
+      "atimeMs": 1544910712685.9417,
+      "mtimeMs": 1545250695769.586,
+      "ctimeMs": 1545250695769.586,
+      "birthtimeMs": 1544910712685.9417,
+      "atime": "2018-12-15T21:51:52.686Z",
+      "mtime": "2018-12-19T20:18:15.770Z",
+      "ctime": "2018-12-19T20:18:15.770Z",
+      "birthtime": "2018-12-15T21:51:52.686Z"
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file",
+      "children": [
+        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "c18ad77238d4d733a425627d6a35ba37",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md",
+      "relativePath": "15-12-2018-lesson-1/index.md",
+      "extension": "md",
+      "size": 846,
+      "prettySize": "846 B",
+      "modifiedTime": "2018-12-19T21:04:09.077Z",
+      "accessTime": "2018-12-15T21:51:52.684Z",
+      "changeTime": "2018-12-19T21:04:09.077Z",
+      "birthTime": "2018-12-15T21:51:52.684Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "15-12-2018-lesson-1",
+      "dev": 3898870800,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 281474978054933,
+      "atimeMs": 1544910712683.942,
+      "mtimeMs": 1545253449076.6191,
+      "ctimeMs": 1545253449076.6191,
+      "birthtimeMs": 1544910712683.942,
+      "atime": "2018-12-15T21:51:52.684Z",
+      "mtime": "2018-12-19T21:04:09.077Z",
+      "ctime": "2018-12-19T21:04:09.077Z",
+      "birthtime": "2018-12-15T21:51:52.684Z"
+    },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/page-2.js absPath of file": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/page-2.js absPath of file",
       "children": [],
@@ -968,180 +1060,6 @@
       "ctime": "2018-12-15T23:26:16.825Z",
       "birthtime": "2018-12-15T23:24:18.565Z"
     },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file",
-      "children": [
-        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "6ec6b915ae371640cacc1a52ec3c94ca",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md",
-      "relativePath": "15-12-2018-lesson-1/index.md",
-      "extension": "md",
-      "size": 641,
-      "prettySize": "641 B",
-      "modifiedTime": "2018-12-19T02:40:57.466Z",
-      "accessTime": "2018-12-15T21:51:52.684Z",
-      "changeTime": "2018-12-19T02:40:57.466Z",
-      "birthTime": "2018-12-15T21:51:52.684Z",
-      "root": "C:/",
-      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "15-12-2018-lesson-1",
-      "dev": 3898870800,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 281474978054933,
-      "atimeMs": 1544910712683.942,
-      "mtimeMs": 1545187257466.0703,
-      "ctimeMs": 1545187257466.0703,
-      "birthtimeMs": 1544910712683.942,
-      "atime": "2018-12-15T21:51:52.684Z",
-      "mtime": "2018-12-19T02:40:57.466Z",
-      "ctime": "2018-12-19T02:40:57.466Z",
-      "birthtime": "2018-12-15T21:51:52.684Z"
-    },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
-      "children": [
-        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "a302ed9cdc6d32da2cc7056893e2e2fd",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md",
-      "relativePath": "16-12-2018-lesson-2/index.md",
-      "extension": "md",
-      "size": 551,
-      "prettySize": "551 B",
-      "modifiedTime": "2018-12-19T02:39:54.257Z",
-      "accessTime": "2018-12-19T02:38:32.329Z",
-      "changeTime": "2018-12-19T02:39:54.257Z",
-      "birthTime": "2018-12-19T02:38:32.329Z",
-      "root": "C:/",
-      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "16-12-2018-lesson-2",
-      "dev": 3898870800,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1125899908190336,
-      "atimeMs": 1545187112329.0376,
-      "mtimeMs": 1545187194256.7974,
-      "ctimeMs": 1545187194256.7974,
-      "birthtimeMs": 1545187112329.0376,
-      "atime": "2018-12-19T02:38:32.329Z",
-      "mtime": "2018-12-19T02:39:54.257Z",
-      "ctime": "2018-12-19T02:39:54.257Z",
-      "birthtime": "2018-12-19T02:38:32.329Z"
-    },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
-      "children": [
-        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "f1720837d2e6cce1678aa8ec4fca30b7",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md",
-      "relativePath": "18-12-2018-lesson-4/index.md",
-      "extension": "md",
-      "size": 663,
-      "prettySize": "663 B",
-      "modifiedTime": "2018-12-19T03:01:05.259Z",
-      "accessTime": "2018-12-19T02:57:54.705Z",
-      "changeTime": "2018-12-19T03:01:05.259Z",
-      "birthTime": "2018-12-19T02:57:54.705Z",
-      "root": "C:/",
-      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "18-12-2018-lesson-4",
-      "dev": 3898870800,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 1407374884901240,
-      "atimeMs": 1545188274705.0652,
-      "mtimeMs": 1545188465259.267,
-      "ctimeMs": 1545188465259.267,
-      "birthtimeMs": 1545188274705.0652,
-      "atime": "2018-12-19T02:57:54.705Z",
-      "mtime": "2018-12-19T03:01:05.259Z",
-      "ctime": "2018-12-19T03:01:05.259Z",
-      "birthtime": "2018-12-19T02:57:54.705Z"
-    },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js absPath of file": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "195bad642cb6abd62a167829375ae029",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js",
-      "relativePath": "index.js",
-      "extension": "js",
-      "size": 1089,
-      "prettySize": "1.09 kB",
-      "modifiedTime": "2018-12-15T23:57:23.048Z",
-      "accessTime": "2018-12-15T21:51:52.686Z",
-      "changeTime": "2018-12-15T23:57:23.048Z",
-      "birthTime": "2018-12-15T21:51:52.686Z",
-      "root": "C:/",
-      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages",
-      "base": "index.js",
-      "ext": ".js",
-      "name": "index",
-      "relativeDirectory": "",
-      "dev": 3898870800,
-      "mode": 33206,
-      "nlink": 1,
-      "uid": 0,
-      "gid": 0,
-      "rdev": 0,
-      "ino": 281474978054935,
-      "atimeMs": 1544910712685.9417,
-      "mtimeMs": 1544918243048.0703,
-      "ctimeMs": 1544918243048.0703,
-      "birthtimeMs": 1544910712685.9417,
-      "atime": "2018-12-15T21:51:52.686Z",
-      "mtime": "2018-12-15T23:57:23.048Z",
-      "ctime": "2018-12-15T23:57:23.048Z",
-      "birthtime": "2018-12-15T21:51:52.686Z"
-    },
     "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file": {
       "id": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file",
       "children": [
@@ -1149,7 +1067,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c4c603057e6e15e7c0d95b207b8d7cca",
+        "contentDigest": "700b99409e3aa2f25c74362079546333",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1158,11 +1076,11 @@
       "absolutePath": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md",
       "relativePath": "15–12–2018-intro\\index.md",
       "extension": "md",
-      "size": 769,
-      "prettySize": "769 B",
-      "modifiedTime": "2018-12-19T02:40:36.008Z",
+      "size": 974,
+      "prettySize": "974 B",
+      "modifiedTime": "2018-12-19T20:13:17.087Z",
       "accessTime": "2018-12-15T21:51:52.682Z",
-      "changeTime": "2018-12-19T02:40:36.008Z",
+      "changeTime": "2018-12-19T20:13:17.087Z",
       "birthTime": "2018-12-15T21:51:52.682Z",
       "root": "C:\\",
       "dir": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro",
@@ -1178,13 +1096,57 @@
       "rdev": 0,
       "ino": 281474978054931,
       "atimeMs": 1544910712681.942,
-      "mtimeMs": 1545187236007.5544,
-      "ctimeMs": 1545187236007.5544,
+      "mtimeMs": 1545250397086.931,
+      "ctimeMs": 1545250397086.931,
       "birthtimeMs": 1544910712681.942,
       "atime": "2018-12-15T21:51:52.682Z",
-      "mtime": "2018-12-19T02:40:36.008Z",
-      "ctime": "2018-12-19T02:40:36.008Z",
+      "mtime": "2018-12-19T20:13:17.087Z",
+      "ctime": "2018-12-19T20:13:17.087Z",
       "birthtime": "2018-12-15T21:51:52.682Z"
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
+      "children": [
+        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "f3ce89ce04557de606d7da6a39b31f9c",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md",
+      "relativePath": "16-12-2018-lesson-2/index.md",
+      "extension": "md",
+      "size": 760,
+      "prettySize": "760 B",
+      "modifiedTime": "2018-12-19T20:13:39.920Z",
+      "accessTime": "2018-12-19T02:38:32.329Z",
+      "changeTime": "2018-12-19T20:13:39.920Z",
+      "birthTime": "2018-12-19T02:38:32.329Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "16-12-2018-lesson-2",
+      "dev": 3898870800,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1125899908190336,
+      "atimeMs": 1545187112329.0376,
+      "mtimeMs": 1545250419920.0117,
+      "ctimeMs": 1545250419920.0117,
+      "birthtimeMs": 1545187112329.0376,
+      "atime": "2018-12-19T02:38:32.329Z",
+      "mtime": "2018-12-19T20:13:39.920Z",
+      "ctime": "2018-12-19T20:13:39.920Z",
+      "birthtime": "2018-12-19T02:38:32.329Z"
     },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md absPath of file": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md absPath of file",
@@ -1193,7 +1155,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c7013a2da03a764fff8eae4329e8977f",
+        "contentDigest": "81957dcc580616b105e17b7928cf7861",
         "mediaType": "text/markdown",
         "type": "File",
         "owner": "gatsby-source-filesystem"
@@ -1202,11 +1164,11 @@
       "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md",
       "relativePath": "17-12-2018-lesson-3/index.md",
       "extension": "md",
-      "size": 374,
-      "prettySize": "374 B",
-      "modifiedTime": "2018-12-19T02:58:28.566Z",
+      "size": 585,
+      "prettySize": "585 B",
+      "modifiedTime": "2018-12-19T20:14:00.686Z",
       "accessTime": "2018-12-19T02:41:43.405Z",
-      "changeTime": "2018-12-19T02:58:28.566Z",
+      "changeTime": "2018-12-19T20:14:00.686Z",
       "birthTime": "2018-12-19T02:41:43.405Z",
       "root": "C:/",
       "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3",
@@ -1222,21 +1184,65 @@
       "rdev": 0,
       "ino": 844424931479768,
       "atimeMs": 1545187303404.818,
-      "mtimeMs": 1545188308566.291,
-      "ctimeMs": 1545188308566.291,
+      "mtimeMs": 1545250440686.3596,
+      "ctimeMs": 1545250440686.3596,
       "birthtimeMs": 1545187303404.818,
       "atime": "2018-12-19T02:41:43.405Z",
-      "mtime": "2018-12-19T02:58:28.566Z",
-      "ctime": "2018-12-19T02:58:28.566Z",
+      "mtime": "2018-12-19T20:14:00.686Z",
+      "ctime": "2018-12-19T20:14:00.686Z",
       "birthtime": "2018-12-19T02:41:43.405Z"
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
+      "children": [
+        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "78f871f36b18c578b6d1a1d68d463600",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md",
+      "relativePath": "18-12-2018-lesson-4/index.md",
+      "extension": "md",
+      "size": 775,
+      "prettySize": "775 B",
+      "modifiedTime": "2018-12-19T20:12:47.731Z",
+      "accessTime": "2018-12-19T02:57:54.705Z",
+      "changeTime": "2018-12-19T20:12:47.731Z",
+      "birthTime": "2018-12-19T02:57:54.705Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "18-12-2018-lesson-4",
+      "dev": 3898870800,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 1407374884901240,
+      "atimeMs": 1545188274705.0652,
+      "mtimeMs": 1545250367730.5383,
+      "ctimeMs": 1545250367730.5383,
+      "birthtimeMs": 1545188274705.0652,
+      "atime": "2018-12-19T02:57:54.705Z",
+      "mtime": "2018-12-19T20:12:47.731Z",
+      "ctime": "2018-12-19T20:12:47.731Z",
+      "birthtime": "2018-12-19T02:57:54.705Z"
     },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/intro-post\"\ndate: \"2018-12-15\"\ntitle: \"Python Basics\"\nexcerpt: \"\"\n---\n\nPython source files use the \".py\" extension and are called \"modules.\" With a Python module hello.py, the easiest way to run it is with the shell command \"python hello.py Alice\" which calls the Python interpreter to execute the code in hello.py, passing it the command line argument \"Alice\". See the official docs page on all the different options you have when running Python from the command-line.\n\nHere's a very simple hello.py program (notice that blocks of code are delimited strictly using indentation rather than curly braces — more on this later!):\n",
-        "contentDigest": "940554bd0fa4c8b3252deaef38a3e381",
+        "content": "---\npath: \"/intro-post\"\ndate: \"2018-12-15\"\ntitle: \"Python Basics\"\nexcerpt: \"\"\n---\n\nPython source files use the \".py\" extension and are called \"modules.\" With a Python module hello.py, the easiest way to run it is with the shell command \"python hello.py Alice\" which calls the Python interpreter to execute the code in hello.py, passing it the command line argument \"Alice\". See the official docs page on all the different options you have when running Python from the command-line.\n\nHere's a very simple hello.py program (notice that blocks of code are delimited strictly using indentation rather than curly braces — more on this later!):\n\n<iframe width=\"560\" height=\"315\"\nsrc=\"https://www.youtube.com/embed/kLZuut1fYzQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen>\n</iframe>\n",
+        "contentDigest": "ed89d6aa46dacac238bab94f33753c0d",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1250,53 +1256,13 @@
       },
       "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/15-12-2018-lesson-1/index.md"
     },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
-      "internal": {
-        "content": "---\r\npath: \"/lesson-2\"\r\ndate: \"2018-12-16\"\r\ntitle: \"Python for Finance\"\r\nexcerpt: \"\"\r\n---\r\n\r\nThe financial industry is increasingly adopting Python for general-purpose programming and quantitative analysis, ranging from understanding trading dynamics to risk management systems. This course focuses specifically on introducing Python for financial analysis. Using practical examples, you will learn the fundamentals of Python data structures such as lists and arrays and learn powerful ways to store and manipulate financial data to identify trends.\r\n",
-        "contentDigest": "afbc872bc18457d905c7ac5b1cc1010f",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Python for Finance",
-        "path": "/lesson-2",
-        "date": "2018-12-16",
-        "excerpt": "",
-        "_PARENT": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
-        "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md"
-    },
-    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark": {
-      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
-      "internal": {
-        "content": "---\r\npath: \"/lesson-4\"\r\ndate: \"2018-12-18\"\r\ntitle: \"Python for Data Science\"\r\nexcerpt: \"\"\r\n---\r\n\r\nPython is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses.\r\n\r\n\r\n<iframe width=\"420\" height=\"315\"\r\nsrc=\"https://www.youtube.com/embed/tgbNymZ7vqY\">\r\n</iframe>\r\n",
-        "contentDigest": "b754fc8a24c10350573c02ad371e98ce",
-        "type": "MarkdownRemark",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Python for Data Science",
-        "path": "/lesson-4",
-        "date": "2018-12-18",
-        "excerpt": "",
-        "_PARENT": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
-        "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file"
-      },
-      "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md"
-    },
     "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file >>> MarkdownRemark": {
       "id": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/lesson-1\"\ndate: \"2018-12-15\"\ntitle: \"Intro to Python\"\nexcerpt: \"\"\n---\n\nPython is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code. Python tracks the types of all values at runtime and flags code that does not make sense as it runs.\n\nAn excellent way to see how Python code works is to run the Python interpreter and type code right into it. If you ever have a question like, \"What happens if I add an int to a list?\" Just typing it into the Python interpreter is a fast and likely the best way to see what happens. (See below to see what really happens!)\n",
-        "contentDigest": "089a5b2a97649074aaaeead5209403ce",
+        "content": "---\npath: \"/lesson-1\"\ndate: \"2018-12-15\"\ntitle: \"Intro to Python\"\nexcerpt: \"\"\n---\n\nPython is a dynamic, interpreted (bytecode-compiled) language. There are no type declarations of variables, parameters, functions, or methods in source code. This makes the code short and flexible, and you lose the compile-time type checking of the source code. Python tracks the types of all values at runtime and flags code that does not make sense as it runs.\n\nAn excellent way to see how Python code works is to run the Python interpreter and type code right into it. If you ever have a question like, \"What happens if I add an int to a list?\" Just typing it into the Python interpreter is a fast and likely the best way to see what happens. (See below to see what really happens!)\n\n<iframe width=\"560\" height=\"315\"\nsrc=\"https://www.youtube.com/embed/1F_OgqRuSdI\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen>\n</iframe>\n",
+        "contentDigest": "80ea1ae574614705d56fd067d9ef06fa",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1310,13 +1276,33 @@
       },
       "fileAbsolutePath": "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md"
     },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
+      "internal": {
+        "content": "---\r\npath: \"/lesson-2\"\r\ndate: \"2018-12-16\"\r\ntitle: \"Python for Finance\"\r\nexcerpt: \"\"\r\n---\r\n\r\nThe financial industry is increasingly adopting Python for general-purpose programming and quantitative analysis, ranging from understanding trading dynamics to risk management systems. This course focuses specifically on introducing Python for financial analysis. Using practical examples, you will learn the fundamentals of Python data structures such as lists and arrays and learn powerful ways to store and manipulate financial data to identify trends.\r\n\r\n<iframe width=\"560\" height=\"315\"\r\nsrc=\"https://www.youtube.com/embed/2BrpKpWwT2A\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen>\r\n</iframe>\r\n",
+        "contentDigest": "cfc84cb3e16c9667e80278b00444cc24",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Python for Finance",
+        "path": "/lesson-2",
+        "date": "2018-12-16",
+        "excerpt": "",
+        "_PARENT": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file",
+        "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/16-12-2018-lesson-2/index.md"
+    },
     "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md absPath of file >>> MarkdownRemark": {
       "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md absPath of file >>> MarkdownRemark",
       "children": [],
       "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md absPath of file",
       "internal": {
-        "content": "---\r\npath: \"/lesson-3\"\r\ndate: \"2018-12-17\"\r\ntitle: \"Python and Math\"\r\nexcerpt: \"\"\r\n---\r\n\r\nEvery programming language has some kind of way of doing numbers and math. Do not worry: programmers lie frequently about being math geniuses when they really aren't. If they were math geniuses, they would be doing math, not writing buggy web frameworks so they can drive race cars.\r\n",
-        "contentDigest": "bf34cfcf5097f9da3e03eee0846bc050",
+        "content": "---\r\npath: \"/lesson-3\"\r\ndate: \"2018-12-17\"\r\ntitle: \"Python and Math\"\r\nexcerpt: \"\"\r\n---\r\n\r\nEvery programming language has some kind of way of doing numbers and math. Do not worry: programmers lie frequently about being math geniuses when they really aren't. If they were math geniuses, they would be doing math, not writing buggy web frameworks so they can drive race cars.\r\n\r\n\r\n<iframe width=\"560\" height=\"315\"\r\nsrc=\"https://www.youtube.com/embed/BvgPM9-krOY\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen>\r\n</iframe>\r\n",
+        "contentDigest": "42915a7dfa625d8da5aa045a583f14c1",
         "type": "MarkdownRemark",
         "owner": "gatsby-transformer-remark"
       },
@@ -1330,6 +1316,26 @@
       },
       "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/17-12-2018-lesson-3/index.md"
     },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
+      "internal": {
+        "content": "---\r\npath: \"/lesson-4\"\r\ndate: \"2018-12-18\"\r\ntitle: \"Python for Data Science\"\r\nexcerpt: \"\"\r\n---\r\n\r\nPython is a general-purpose programming language that is becoming more and more popular for doing data science. Companies worldwide are using Python to harvest insights from their data and get a competitive edge. Unlike any other Python tutorial, this course focuses on Python specifically for data science. In our Intro to Python class, you will learn about powerful ways to store and manipulate data as well as cool data science tools to start your own analyses.\r\n\r\n\r\n<iframe width=\"560\" height=\"315\"\r\nsrc=\"https://www.youtube.com/embed/T5pRlIbr6gg\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen>\r\n</iframe>\r\n",
+        "contentDigest": "0b89d082e02fa93ef1c4e05ebf299ba8",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Python for Data Science",
+        "path": "/lesson-4",
+        "date": "2018-12-18",
+        "excerpt": "",
+        "_PARENT": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file",
+        "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/18-12-2018-lesson-4/index.md"
+    },
     "SitePage /lesson-4": {
       "layout": "index",
       "jsonName": "lesson-4.json",
@@ -1338,7 +1344,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1545248206705,
+      "updatedAt": 1545255524458,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
@@ -1347,7 +1353,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "77a8af75bcc79595dffea8aa46757284",
+        "contentDigest": "dd97bd6a6bb75bdaf063e3c5633c121a",
         "owner": "internal-data-bridge"
       }
     },
@@ -1359,7 +1365,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1545248206706,
+      "updatedAt": 1545255524460,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
@@ -1368,7 +1374,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "31dd37ab6e485a6f99b143db6705585f",
+        "contentDigest": "ef604cb551612a023c7de98c2951f11b",
         "owner": "internal-data-bridge"
       }
     },
@@ -1380,7 +1386,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1545248206707,
+      "updatedAt": 1545255524461,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
@@ -1389,7 +1395,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7a0912dfee346dbb55acfc60a76576f4",
+        "contentDigest": "132d3f2261ebbd276294fdd4011755ef",
         "owner": "internal-data-bridge"
       }
     },
@@ -1401,7 +1407,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1545248206708,
+      "updatedAt": 1545255524462,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
@@ -1410,7 +1416,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bb9b8d95a38b404748223c95b42bba02",
+        "contentDigest": "757d311d33294f6ea371d4b480aee69d",
         "owner": "internal-data-bridge"
       }
     },
@@ -1422,7 +1428,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
       "componentChunkName": "component---src-templates-blog-template-js",
       "context": {},
-      "updatedAt": 1545248206709,
+      "updatedAt": 1545255524463,
       "pluginCreator___NODE": "Plugin default-site-plugin",
       "pluginCreatorId": "Plugin default-site-plugin",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
@@ -1431,7 +1437,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "de60295ff824a3b743af3b3102bb876d",
+        "contentDigest": "09464eccc26f5a991b23ca8b55cd8ea2",
         "owner": "internal-data-bridge"
       }
     },
@@ -1443,7 +1449,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1545248207127,
+      "updatedAt": 1545253037363,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js",
@@ -1452,7 +1458,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7c3df0da57feda80caf0965b9c53e060",
+        "contentDigest": "1fd3fbb895f6cfe2b740e0ae681f8ac4",
         "owner": "internal-data-bridge"
       }
     },
@@ -1464,7 +1470,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1545248207128,
+      "updatedAt": 1545253037365,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/index.js",
@@ -1473,7 +1479,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7befa953aa8e344de7cde7a21b9f4982",
+        "contentDigest": "9e0fa5f6585cb73c3c2357fe98cc14de",
         "owner": "internal-data-bridge"
       }
     },
@@ -1485,7 +1491,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js",
       "componentChunkName": "component---src-pages-404-js",
       "context": {},
-      "updatedAt": 1545248207131,
+      "updatedAt": 1545253037366,
       "pluginCreator___NODE": "Plugin prod-404",
       "pluginCreatorId": "Plugin prod-404",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/404.js",
@@ -1494,7 +1500,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "48fe8e655f178d63f6131b9cfd77e853",
+        "contentDigest": "556756479802559e0fc8d10105111d7e",
         "owner": "internal-data-bridge"
       }
     },
@@ -1506,7 +1512,7 @@
       "component": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1545248207308,
+      "updatedAt": 1545253037372,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/page-2.js",
@@ -1515,14 +1521,139 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "84d918fc44e2a907b07a562be76dc8de",
+        "contentDigest": "00dbc2f5c5900f3486d85b98315b2aa8",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "24a798188807088aab8a83ab955f39ef",
+        "type": "Directory",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation",
+      "relativePath": "19-12-2018-presentation",
+      "extension": "",
+      "size": 0,
+      "prettySize": "0 B",
+      "modifiedTime": "2018-12-19T21:08:30.361Z",
+      "accessTime": "2018-12-19T21:08:30.361Z",
+      "changeTime": "2018-12-19T21:08:30.361Z",
+      "birthTime": "2018-12-19T21:08:30.361Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages",
+      "base": "19-12-2018-presentation",
+      "ext": "",
+      "name": "19-12-2018-presentation",
+      "relativeDirectory": "",
+      "dev": 3898870800,
+      "mode": 16822,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 5629499534679556,
+      "atimeMs": 1545253710360.8623,
+      "mtimeMs": 1545253710360.8623,
+      "ctimeMs": 1545253710360.8623,
+      "birthtimeMs": 1545253710360.8623,
+      "atime": "2018-12-19T21:08:30.361Z",
+      "mtime": "2018-12-19T21:08:30.361Z",
+      "ctime": "2018-12-19T21:08:30.361Z",
+      "birthtime": "2018-12-19T21:08:30.361Z"
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file",
+      "children": [
+        "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a6fc1f4eaf9860e0b0cbc68b5de9cd09",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md",
+      "relativePath": "19-12-2018-presentation/index.md",
+      "extension": "md",
+      "size": 3938,
+      "prettySize": "3.94 kB",
+      "modifiedTime": "2018-12-19T21:38:44.273Z",
+      "accessTime": "2018-12-19T21:08:34.952Z",
+      "changeTime": "2018-12-19T21:38:44.273Z",
+      "birthTime": "2018-12-19T21:08:34.952Z",
+      "root": "C:/",
+      "dir": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "19-12-2018-presentation",
+      "dev": 3898870800,
+      "mode": 33206,
+      "nlink": 1,
+      "uid": 0,
+      "gid": 0,
+      "rdev": 0,
+      "ino": 8444249301786508,
+      "atimeMs": 1545253714951.9302,
+      "mtimeMs": 1545255524272.562,
+      "ctimeMs": 1545255524272.562,
+      "birthtimeMs": 1545253714951.9302,
+      "atime": "2018-12-19T21:08:34.952Z",
+      "mtime": "2018-12-19T21:38:44.273Z",
+      "ctime": "2018-12-19T21:38:44.273Z",
+      "birthtime": "2018-12-19T21:08:34.952Z"
+    },
+    "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file >>> MarkdownRemark": {
+      "id": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file",
+      "internal": {
+        "content": "---\r\npath: \"/presentation\"\r\ndate: \"2018-12-19\"\r\ntitle: \"Presentation for Final\"\r\n---\r\n\r\nInstead of including a seperate document for my presentation, I thought it would be a cool idea to include the presentation within the website itself. I will also include the YouTube video that I created presenting this project below.\r\n\r\nStarting off, I had wanted to create a blog website that had user functions and continuous deployment by a site like Netlify. I wanted to allow users to login and logout, sign up for email access, amongst other functions. I decided against this as I wanted to focus more on the UI of my project.\r\n\r\nThe end website is one I very much enjoy. I am a big fan of minimal websites, as I enjoy being able to get right to the point of what I am viewing. I started by choosing my colorways, gray and white, and ended up adding a dark blue border around the website to add some contrast. I first had wanted to have a sidebar of some kind, that would be informational to the reader. I created the sidebar in my layouts/index.js. This layouts file is where I create the props of my header and sidebar. The header is a simple line of text reading the name of my website. This also functions as a button to go back to my index.js page. The sidebar contains information on the use of the website, the creator and a small snippet about how the website is created. Both of these props are then added to a TemplateWrapper object that I use as an export. I decided against creating 2 files and folders for these objects as I mainly wanted my code to be readable and not too lengthy, which I believe it is not.\r\n\r\nMoving on to the blog post and blog post listings, I coded my index.js page to show a list of my blogs, starting with the name, followed by date, and a small (250 character) excerpt from the blog. The website then uses graphql as a page query to show the data. I also use a blog-listing.css in the styles folder to style each preview. Each blog posts title is able to be clicked to bring the full post into view.\r\n\r\nOnce clicked on, you can view the entire blog post. I strayed away from using a website to push blog posts as the creation of a post is very straightforward. You create a folder in the pages folder, titled in this format: DD-MM-YYYY-NAME. You then create a index.md file within the folder you just created to hold data related to the post. You enter a path, date and title, and then enter the post itself. I unfortunately never got my excerpt to work correct, as I had wanted to have an excerpt that talks about what you will learn in each blog, but figured that the 250 character preview will work out fine. Each blogpost includes a youtube view that is coded with an iframe.\r\n\r\nI had originally wanted to create my own blog posts with information that I learned while learning python, but found myself struggling with time to create indepth demos and guides of what I have learned. I also figured that since the website is just to show off the skills I have learned in this class, that it was not a huge deal. I ended up populating each blog post with a small snippet about each video that is linked to the post. These videos are simple youtube videos relating to python and more specifically the title of each post itself.\r\n\r\nOverall, I had a fun time with this project. I enjoyed putting the knowledge I gained in the class to the class to the test by creating a website. There were a couple of functions that I had started to implement, but never figured out. I first attempted to add a particle background with particle.js, but had issues with it working, and when I had got it working, it frankly ruined the minimalistic aspect of the website. I also tried to implement a code block feature, where I could show code block snippets within the index.md files using prismjs, but never got that working unfortunately. Even though I had these issues, I still enjoyed the way my website turned out.\r\n",
+        "contentDigest": "54817cb4a2140e9760a0e801bba4ce64",
+        "type": "MarkdownRemark",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Presentation for Final",
+        "path": "/presentation",
+        "date": "2018-12-19",
+        "_PARENT": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file",
+        "parent": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file"
+      },
+      "fileAbsolutePath": "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md"
+    },
+    "SitePage /presentation": {
+      "layout": "index",
+      "jsonName": "presentation.json",
+      "internalComponentName": "ComponentPresentation",
+      "path": "/presentation",
+      "component": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
+      "componentChunkName": "component---src-templates-blog-template-js",
+      "context": {},
+      "updatedAt": 1545255524456,
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "C:/Users/Toby/code/zellmer_FinalExam/src/templates/blog-template.js",
+      "id": "SitePage /presentation",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "40283585d3193a67fc066ec55e43ad32",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4d9cccf23736e788a5e5866be0c03586"
+    "PLUGINS_HASH": "95bc2c911fe1e5186bb4e5f85a1e59a7"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -1540,6 +1671,9 @@
       ],
       "C:\\Users\\Toby\\code\\zellmer_FinalExam\\src\\pages\\15–12–2018-intro\\index.md absPath of file >>> MarkdownRemark": [
         "/lesson-1"
+      ],
+      "C:/Users/Toby/code/zellmer_FinalExam/src/pages/19-12-2018-presentation/index.md absPath of file >>> MarkdownRemark": [
+        "/presentation"
       ]
     },
     "connections": {

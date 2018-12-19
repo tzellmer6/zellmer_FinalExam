@@ -106,7 +106,11 @@ const TemplateWrapper = ({ children }) => (
                 />
                 <Sidebar
                   title="Toby Zellmer"
-                  description="A 2nd year student at Milwaukee Area Technical College studying computer programming."
+                  description="The creator of this webiste, a 2nd year student at Milwaukee Area Technical College studying computer programming."
+                />
+                <Sidebar
+                  title="About this website"
+                  description="This website was created using react and gatsby."
                 />
               </div>
             </div>

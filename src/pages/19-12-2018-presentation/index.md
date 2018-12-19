@@ -1,0 +1,19 @@
+---
+path: "/presentation"
+date: "2018-12-19"
+title: "Presentation for Final"
+---
+
+Instead of including a seperate document for my presentation, I thought it would be a cool idea to include the presentation within the website itself. I will also include the YouTube video that I created presenting this project below.
+
+Starting off, I had wanted to create a blog website that had user functions and continuous deployment by a site like Netlify. I wanted to allow users to login and logout, sign up for email access, amongst other functions. I decided against this as I wanted to focus more on the UI of my project.
+
+The end website is one I very much enjoy. I am a big fan of minimal websites, as I enjoy being able to get right to the point of what I am viewing. I started by choosing my colorways, gray and white, and ended up adding a dark blue border around the website to add some contrast. I first had wanted to have a sidebar of some kind, that would be informational to the reader. I created the sidebar in my layouts/index.js. This layouts file is where I create the props of my header and sidebar. The header is a simple line of text reading the name of my website. This also functions as a button to go back to my index.js page. The sidebar contains information on the use of the website, the creator and a small snippet about how the website is created. Both of these props are then added to a TemplateWrapper object that I use as an export. I decided against creating 2 files and folders for these objects as I mainly wanted my code to be readable and not too lengthy, which I believe it is not.
+
+Moving on to the blog post and blog post listings, I coded my index.js page to show a list of my blogs, starting with the name, followed by date, and a small (250 character) excerpt from the blog. The website then uses graphql as a page query to show the data. I also use a blog-listing.css in the styles folder to style each preview. Each blog posts title is able to be clicked to bring the full post into view.
+
+Once clicked on, you can view the entire blog post. I strayed away from using a website to push blog posts as the creation of a post is very straightforward. You create a folder in the pages folder, titled in this format: DD-MM-YYYY-NAME. You then create a index.md file within the folder you just created to hold data related to the post. You enter a path, date and title, and then enter the post itself. I unfortunately never got my excerpt to work correct, as I had wanted to have an excerpt that talks about what you will learn in each blog, but figured that the 250 character preview will work out fine. Each blogpost includes a youtube view that is coded with an iframe.
+
+I had originally wanted to create my own blog posts with information that I learned while learning python, but found myself struggling with time to create indepth demos and guides of what I have learned. I also figured that since the website is just to show off the skills I have learned in this class, that it was not a huge deal. I ended up populating each blog post with a small snippet about each video that is linked to the post. These videos are simple youtube videos relating to python and more specifically the title of each post itself.
+
+Overall, I had a fun time with this project. I enjoyed putting the knowledge I gained in the class to the class to the test by creating a website. There were a couple of functions that I had started to implement, but never figured out. I first attempted to add a particle background with particle.js, but had issues with it working, and when I had got it working, it frankly ruined the minimalistic aspect of the website. I also tried to implement a code block feature, where I could show code block snippets within the index.md files using prismjs, but never got that working unfortunately. Even though I had these issues, I still enjoyed the way my website turned out.

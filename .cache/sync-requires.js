@@ -30,7 +30,9 @@ exports.json = {
   "layout-index.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\layout-index.json"),
   "404-html.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\404-html.json"),
   "layout-index.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\layout-index.json"),
-  "page-2.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\page-2.json")
+  "page-2.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\page-2.json"),
+  "layout-index.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\layout-index.json"),
+  "presentation.json": require("C:\\Users\\Toby\\code\\zellmer_FinalExam\\.cache\\json\\presentation.json")
 }
 
 exports.layouts = {
